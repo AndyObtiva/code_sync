@@ -1,3 +1,0 @@
-SpecLib = 
-  util:
-    method: ()-> true
